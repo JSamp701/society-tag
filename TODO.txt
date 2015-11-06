@@ -1,0 +1,6 @@
+Add lots of column headers EVERYWHERE!
+Pretty up outputs EVERYWHERE!
+Modify API so the game class is contained by itself, and the shell for interacting with it is its own class.
+Modify the Tag function so it prints out new targetting information after a tag (same for the delete)
+Separate Game Administration functionality from the Shell interpretation and output of results of the game administration functionality.
+Document Mail Merge process
